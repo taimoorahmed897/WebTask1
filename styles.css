@@ -1,0 +1,49 @@
+
+.container{
+    overflow: hidden;
+}
+
+.tab{
+    float: left;
+}
+
+.tab1{
+    padding-right: 150px;
+
+}
+
+.tab2{
+    /* padding-left: 50px; */
+    /* border-collapse: collapse; */
+    /* border: 1px solid black; */
+    /* display: block; */
+    margin-bottom: 50px;
+
+}
+.tab2 input{
+    
+    margin-bottom: 20px;
+}
+
+t1{
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding-right: 50px;
+    border-spacing: 5px;
+}
+th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-right: 50px;
+    background-color: lightgray;
+}
+tr:hover{background-color: gray}
+
+
+
+
+
+
+
+
+
